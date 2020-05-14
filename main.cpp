@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-#define pi 3, 14
+#define pi 3.14
 
 double Perimeter(double radius)
 {
