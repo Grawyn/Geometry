@@ -5,12 +5,13 @@ using namespace std;
 
 double Perimeter(double radius)
 {
-    return (2 * pi * radius);
+    double perimeter = 2 * pi * radius;
+    return perimeter;
 }
 
 double Area(double radius)
 {
-    return (pi * radius * radius);
+    double area = pi * radius * radius return area;
 }
 
 int main()
