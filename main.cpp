@@ -11,7 +11,8 @@ double Perimeter(double radius)
 
 double Area(double radius)
 {
-    double area = pi * radius * radius return area;
+    double area = pi * radius * radius;
+    return area;
 }
 
 int main()
