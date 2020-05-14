@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+#Another files
+main
+makefile~
+main.cpp~
+-miltiInst
